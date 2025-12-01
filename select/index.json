@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "永遠の一瞬",
+  "base_artist": "虹ヶ咲学園スクールアイドル同好会",
+  "createdAt": "2025-12-01T05:12:01.407628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠の一瞬",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/01_永遠の一瞬_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A DAY IN THE GIRL'S LIFE（永遠の一瞬）",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/02_A_DAY_IN_THE_GIRL'S_LIFE(永遠の一瞬)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠の一瞬",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": true,
+      "path": "select/03_永遠の一瞬_Nijigasaki_High_School_Idol_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Day In The Girl's Life (永遠の一瞬)",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/04_A_Day_In_The_Girl's_Life_(永遠の一瞬)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Day In The Girl's Life (永遠の一瞬)",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/05_A_Day_In_The_Girl's_Life_(永遠の一瞬)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠の一瞬",
+      "artist": "小栗 昌彦",
+      "has_synced": false,
+      "path": "select/pl_01_永遠の一瞬_小栗_昌彦.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "永遠の一瞬",
+      "artist": "小栗 昌彦",
+      "has_synced": false,
+      "path": "select/pl_02_永遠の一瞬_小栗_昌彦.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "永遠の一瞬",
+      "artist": "小栗 昌彦",
+      "has_synced": false,
+      "path": "select/pl_03_永遠の一瞬_小栗_昌彦.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "永遠の一瞬",
+      "artist": "小栗 昌彦",
+      "has_synced": false,
+      "path": "select/pl_04_永遠の一瞬_小栗_昌彦.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "永遠の一瞬",
+      "artist": "小栗 昌彦",
+      "has_synced": false,
+      "path": "select/pl_05_永遠の一瞬_小栗_昌彦.txt"
+    }
+  ]
+}
